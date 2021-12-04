@@ -16,4 +16,4 @@
 
 This is eventaully going to include info about this here.
 
-|[Questions?]: mailto:contact@scottenlabs.com|
+[Questions?](mailto:contact@scottenlabs.com)
