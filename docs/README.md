@@ -1,3 +1,3 @@
 Template options
-- https://github.com/sujaykundu777/devlopr-jekyll
-- https://pixelarity.com/solid-state
+- [Devlopr Jekyll](https://github.com/sujaykundu777/devlopr-jekyll)
+- [Solid State](https://pixelarity.com/solid-state)
