@@ -15,3 +15,6 @@
 This is eventaully going to include info about this here.
 
 [Questions?](mailto:contact@scottenlabs.com)
+
+## Note on my repos!
+Repos created after May 2022 will include a .devcontainer/ folder that allows the user to spin up a docker container with all the requierments installed to develope of run the application. I do my work in VS Code so I can easily start these containers by adding the Docker extension to VS Code. Any other VS Code settings will show up in the .vscode/ folder if it exists.
